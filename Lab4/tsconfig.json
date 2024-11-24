@@ -1,0 +1,6 @@
+{
+  "server_port": "8080",
+  "log_level": "INFO",
+  "tls_cert_path": "path/to/your/certificate.crt",
+  "tls_key_path": "path/to/your/private.key"
+}
